@@ -1,4 +1,4 @@
-//21BCA69 :- pattern 3
+//21BCA11 :- pattern 3
 
 #include<stdio.h>
 #include<conio.h>
